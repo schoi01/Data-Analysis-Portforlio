@@ -9,8 +9,13 @@ I am here to share my journey and my projects with you. Take a look at my projec
 
 ## Projects
 **Language:** R
+
 **Objective:** To examine what external factors are associated with a student's academic performance.
+
 **Code:**
+
 **Description:** The dataset measures student achievement in secondary education in Portugal. It consists of 33 variables, including student grades, demographic information, and social and school-related factors.
+
 **Skills:** Data cleaning, Data visualization, Model selection, Data analysis
+
 **Results:** Through inferential statistical methods, 7 variables were found to affect students' grades, such as failing pass classes and relying too much on school support.
