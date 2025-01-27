@@ -8,6 +8,8 @@ Along with my math studies, I have also developed a strong background in Compute
 I am here to share my journey and my projects with you. Take a look at my projects to see what I have been working on — each one reflects my passion for data and commitment to make it work for us!
 
 ## Projects
+
+### Students' Academic Performance Analysis
 **Language:** R
 
 **Objective:** To examine what external factors are associated with a student's academic performance.
