@@ -14,7 +14,7 @@ I am here to share my journey and my projects with you. Take a look at my projec
 
 **Objective:** To examine what external factors are associated with a student's academic performance.
 
-**Code:**
+**Code:** [Student Academic Performance Analysis](https://github.com/schoi01/Student-Academic-Performance-Analysis)
 
 **Description:** The dataset measures student achievement in secondary education in Portugal. It consists of 33 variables, including student grades, demographic information, and social and school-related factors.
 
